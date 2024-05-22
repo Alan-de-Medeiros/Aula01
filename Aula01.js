@@ -14,4 +14,4 @@ if (pontos < 50) {
     alert("JOGOU BEM");
 } else { 
     alert("JOGOU DEMAIS")
-}
+} //teste01
